@@ -1,4 +1,4 @@
-const model= require("..Model/model.js")
+const model= require("..Model/model")
 
 exports.createList= async (req,res)=>{ //post(/)
    try{
